@@ -1,2 +1,2 @@
-# This is the main file for the McNally Gift app
+#this is the main file for the McNally Gift app
 
